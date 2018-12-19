@@ -1,2 +1,0 @@
-# Emerging-App
-Spring
