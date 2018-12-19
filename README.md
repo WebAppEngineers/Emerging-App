@@ -1,3 +1,2 @@
 # Emerging-App
 Spring
-testing
